@@ -3,7 +3,7 @@
 
 Code for Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret (ESCHER).
 
-ESCHER is an unbiased model-free method for finding approximate Nash equilibria in large two-player zero-sum games that does not require any importance sampling. ESCHER is principled and is guaranteed to converge to an approximate Nash equilibrium with high probability in the tabular case. We show that the variance of the estimated regret of a tabular version of
+ESCHER is an unbiased model-free method for finding approximate Nash equilibria in large two-player zero-sum games that does not require any importance sampling. ESCHER is principled and is guaranteed to converge to an approximate Nash equilibrium with high probability in the tabular case. 
 
 We find that ESCHER outperforms the prior state of the art—DREAM and neural fictitious self play (NFSP)—and the difference becomes dramatic as game size increases.
 
